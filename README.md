@@ -2,7 +2,7 @@
 
 ## Eicar test file
 This repository contains a test file with the eicar signature in it, to performs some test on.
-Although this file is supposed to be benign, take notice that it might still hurst your system through your AV.
+Although this file is supposed to be benign, take notice that it might still hurt your system through your AV.
 
 USE AT YOUR OWN RISKS !
 
